@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE library[
+        <!ELEMENT library (book)*>
+        <!ELEMENT book (booktitle, author, (price|discount))+>
+        <!ELEMENT booktitle (#PCDATA|discount)*>
+        <!ELEMENT author (#PCDATA)>
+        <!ELEMENT price (#PCDATA)>
+        <!ELEMENT p (#PCDATA)>
+        <!ELEMENT discount (#PCDATA)>
+        ]>
+
+<library>
+    <book>
+        <booktitle>The bad guide</booktitle>
+        <author>Mr.T</author>
+        <price>24</price>
+    </book>
+    <book>
+        <booktitle>Stubborn Guy <discount>21</discount> </booktitle>
+        <author>James Gordon</author>
+        <discount>53</discount>
+    </book>
+    <book>
+        <booktitle>Only Java</booktitle>
+        <author>Asley Avlok</author>
+        <price>74</price>
+    </book>
+</library>
+

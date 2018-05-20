@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE CONFERENCE SYSTEM "id_refAttr.dtd">
+<CONFERENCE Date="September, 09, 2011">
+    <Topic TopicID="topic_1" Next="topic_2" xRef="topic_3 topic_4">
+        Introduce to a new world
+    </Topic>
+    <Topic TopicID="topic_2" Previous="topic_1" Next="topic_3" xRef="topic_1 topic_3">
+        why X-men lovers suck ?
+    </Topic>
+    <Topic TopicID="topic_3" Previous="topic_2" Next="topic_4" xRef="topic_1 topic_2">
+        Another brick in the wall
+    </Topic>
+    <Topic TopicID="topic_4" Previous="topic_3" xRef="topic_1 topic_2 topic_3">
+        Damn those old minds
+    </Topic>
+</CONFERENCE>

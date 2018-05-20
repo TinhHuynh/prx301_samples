@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<library>
+    <booK>
+        <bookTitle quote="The main actor said &quot;We've dinner in the hell tonight&quot;">300</bookTitle>
+        <author>John Grisham</author>
+        <price>99</price>
+    </booK>
+    <booK>
+        <bookTitle quote="The main actor said &quot;We've dinner in the hell tonight&quot;">300</bookTitle>
+        <author>John Grisham</author>
+        <price>&lt;99</price>
+    </booK>
+</library>

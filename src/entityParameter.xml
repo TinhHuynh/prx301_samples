@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE purchaseOrder SYSTEM "entityParameter.dtd">
+<purchaseOrder id="D001" account="Tinh">
+    <item account="Tinh" id="I001">
+        <price>21</price>
+        <quantity>2</quantity>
+    </item>
+    <manufacturer account="Tinh" id="M0012">Man Co</manufacturer>
+    <purchaser account="Khoa" id="P003">Ltd.</purchaser>
+    <purchaseInfo>
+        <cash>5999</cash>
+    </purchaseInfo>
+</purchaseOrder>

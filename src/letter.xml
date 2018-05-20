@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE letter SYSTEM "letter.dtd">
+<letter>
+    <contact type="from">
+        <name>Tinh</name>
+        <address>To Ky</address>
+        <city>HCMC</city>
+        <phone>112</phone>
+        <flag gender="M" desp="a"/>
+    </contact>
+    <contact type="to">
+        <name>Khoa</name>
+        <address>Unknown</address>
+        <city>Vung Tau</city>
+        <phone>122</phone>
+        <flag gender="a" desp="a"/>
+    </contact>
+    <salutation>Dear Khoa</salutation>
+    <paragraph>I want to be your friend. Do you accept me ?</paragraph>
+    <closing>Thank you</closing>
+    <signature>Tinh</signature>
+</letter>

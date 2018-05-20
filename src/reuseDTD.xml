@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE subject [
+        <!ELEMENT subject (document, results)>
+        <!ENTITY % old SYSTEM "combined.dtd">
+        %old;
+        <!ELEMENT results (#PCDATA)>
+        ]>
+<subject>
+    <document>
+        <title>Core Kotlin</title>
+        <title>Lava kills dragon</title>
+        <subjectID>114</subjectID>
+        <subjectName>Bad world</subjectName>
+        <prerequisite>
+            <subjectID>234</subjectID>
+            <subjectName>Take my punch</subjectName>
+        </prerequisite>
+        <classes>431</classes>
+        <assessment assessment_type="exam">
+            Online
+        </assessment>
+        <sysllabus>23/1/2012</sysllabus>
+        <textbooks>
+            <author>Norman Forles</author>
+            <booktitle>Get up and kick his ass</booktitle>
+        </textbooks>
+    </document>
+    <results>7</results>
+</subject>

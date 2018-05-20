@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+        <!ELEMENT letter (contact, salutation, paragraph+, closing, signature)>
+        <!ELEMENT contact (name, address, city, phone, flag)>
+        <!ATTLIST contact type CDATA #REQUIRED>
+
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT address (#PCDATA)>
+        <!ELEMENT city (#PCDATA)>
+        <!ELEMENT phone (#PCDATA)>
+        <!ELEMENT flag EMPTY>
+        <!ATTLIST flag gender CDATA #REQUIRED "A">
+
+        <!ELEMENT salutation (#PCDATA)>
+        <!ELEMENT paragraph (#PCDATA)>
+        <!ELEMENT closing (#PCDATA)>
+        <!ELEMENT signature (#PCDATA)>
+
+

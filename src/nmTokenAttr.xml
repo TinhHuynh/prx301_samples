@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE RESOURCE[
+        <!ELEMENT RESOURCE (Text+)>
+        <!ATTLIST RESOURCE SECURITY CDATA "ON"
+            Authorised_User NMTOKENS #IMPLIED>
+        <!ELEMENT Text (#PCDATA)>
+        ]>
+
+<RESOURCE Authorised_User="Tinh Huynh">
+    <Text>Oh really ? I dont think so</Text>
+</RESOURCE>

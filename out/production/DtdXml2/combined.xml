@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE document SYSTEM "combined.dtd" [
+        <!ATTLIST assessment assessment_type (exam | assignment | prac) "exam">
+        <!ELEMENT results (#PCDATA)>
+        ]>
+<document>
+    <title>Core Kotlin</title>
+    <title>Lava kills dragon</title>
+    <subjectID>114</subjectID>
+    <subjectName>Bad world</subjectName>
+    <prerequisite>
+        <subjectID>234</subjectID>
+        <subjectName>Take my punch</subjectName>
+    </prerequisite>
+    <classes>431</classes>
+    <assessment assessment_type="prac">
+        Online
+        <results>7</results>
+    </assessment>
+    <sysllabus>23/1/2012</sysllabus>
+</document>
