@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://xml.tinh.com/schema/listNonAtomic"
+          xsi:schemaLocation="http://xml.tinh.com/schema/listNonAtomic listNonAtomic.xsd">
+    <salary>20003</salary>
+    <title>Sales Manager</title>
+    <vacationDays>2012-02-01 2013-01-21</vacationDays>
+</employee>

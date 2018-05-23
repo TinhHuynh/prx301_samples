@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://www.tinh.com/schema/mix_maxLength"
+            xmlns="http://www.tinh.com/schema/mix_maxLength"
+            elementFormDefault="qualified">
+    <xsd:simpleType name="Password">
+        <xsd:restriction base="xsd:string">
+            <xsd:pattern value="[A-Za-z_]{6,12}"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+    <xsd:element name="User">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="Password" type="Password"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
-        <!ELEMENT letter (contact, salutation, paragraph+, closing, signature)>
+        <!ELEMENT letter (contact+, salutation, paragraph+, closing, signature)>
         <!ELEMENT contact (name, address, city, phone, flag)>
         <!ATTLIST contact type CDATA #REQUIRED>
 
@@ -9,7 +9,8 @@
         <!ELEMENT city (#PCDATA)>
         <!ELEMENT phone (#PCDATA)>
         <!ELEMENT flag EMPTY>
-        <!ATTLIST flag gender CDATA #REQUIRED "A">
+        <!ATTLIST flag gender CDATA #REQUIRED
+                desp CDATA #IMPLIED>
 
         <!ELEMENT salutation (#PCDATA)>
         <!ELEMENT paragraph (#PCDATA)>

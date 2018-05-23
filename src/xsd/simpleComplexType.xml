@@ -1,0 +1,4 @@
+<Product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://xml.tinh.com/schema/simpleComplexType"
+         xsi:schemaLocation="http://xml.tinh.com/schema/simpleComplexType simpleComplexType.xsd"
+         id="1221122" />

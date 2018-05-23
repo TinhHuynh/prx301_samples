@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://xml.tinh.com/schema/unionNonAtomic"
+            xmlns="http://xml.tinh.com/schema/unionNonAtomic"
+            elementFormDefault="qualified">
+    <xsd:simpleType name="runningRace">
+        <xsd:restriction base="xsd:string">
+            <xsd:enumeration value="100 meters"/>
+            <xsd:enumeration value="10 kilometers"/>
+            <xsd:enumeration value="440 yards"/>
+            <xsd:enumeration value="Marathon"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+    <xsd:simpleType name="gymnastics">
+        <xsd:restriction base="xsd:string">
+            <xsd:enumeration value="Vault"/>
+            <xsd:enumeration value="Floor"/>
+            <xsd:enumeration value="Rings"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+    <xsd:simpleType name="event">
+        <xsd:union memberTypes="runningRace gymnastics"/>
+    </xsd:simpleType>
+    <xsd:element name="program">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="event" type="event"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<mail xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://xml.netbeans.org/schema/mail"
+      xsi:schemaLocation="http://xml.netbeans.org/schema/mail mail.xsd">
+    <to>Ngan</to>
+    <from>Tinh@gmail.com</from>
+    <header>Love Letter</header>
+    <body>I love you so much !!!</body>
+</mail>

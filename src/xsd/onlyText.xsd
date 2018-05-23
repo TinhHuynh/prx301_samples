@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://xml.tinh,com/schema/onlyText"
+            elementFormDefault="qualified">
+    <!--<xsd:element name="ShoeSize">-->
+    <!--<xsd:complexType>-->
+    <!--<xsd:simpleContent>-->
+    <!--<xsd:extension base="xsd:integer">-->
+
+    <!--<xsd:attribute name="country" type="xsd:string"/>-->
+    <!--</xsd:extension>-->
+    <!--</xsd:simpleContent>-->
+    <!--</xsd:complexType>-->
+    <!--</xsd:element>-->
+
+    <xsd:element name="ShoeSize" type="ShoeType">
+    </xsd:element>
+
+    <xsd:complexType name="ShoeType">
+        <xsd:simpleContent>
+            <xsd:extension base="xsd:integer">
+                <xsd:attribute name="country" type="xsd:string"/>
+            </xsd:extension>
+        </xsd:simpleContent>
+    </xsd:complexType>
+
+</xsd:schema>

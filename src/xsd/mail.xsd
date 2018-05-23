@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://xml.netbeans.org/schema/mail"
+            xmlns="http://xml.netbeans.org/schema/mail"
+            elementFormDefault="qualified">
+    <xsd:element name="mail">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="to" type="xsd:string"/>
+                <xsd:element name="from" type="xsd:string" fixed="Tinh@gmail.com"
+                             default="Tinh@gmail.com"/>
+                <xsd:element name="header" type="xsd:string" default="No subject"/>
+                <xsd:element name="body" type="xsd:string" default="Hello"/>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>
+

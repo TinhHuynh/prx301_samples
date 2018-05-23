@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE letter SYSTEM "letter.dtd">
+<!DOCTYPE letter SYSTEM "/home/TinhHSE62713/Projects/DtdXml2/src/dtd/letter.dtd">
 <letter>
     <contact type="from">
         <name>Tinh</name>
         <address>To Ky</address>
         <city>HCMC</city>
         <phone>112</phone>
-        <flag gender="f"/>
+        <flag gender="M" desp="a"/>
     </contact>
     <contact type="to">
         <name>Khoa</name>
         <address>Unknown</address>
         <city>Vung Tau</city>
         <phone>122</phone>
-        <flag gender="F"/>
+        <flag gender="a" desp="a"/>
     </contact>
     <salutation>Dear Khoa</salutation>
     <paragraph>I want to be your friend. Do you accept me ?</paragraph>

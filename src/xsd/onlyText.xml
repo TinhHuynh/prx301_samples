@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ShoeSize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://xml.tinh,com/schema/onlyText"
+          xsi:schemaLocation="http://xml.tinh,com/schema/onlyText onlyText.xsd"
+          country="Vietnamese">40</ShoeSize>

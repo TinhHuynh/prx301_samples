@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://xml.tinh.com/schema/onlyElements"
+        xsi:schemaLocation="http://xml.tinh.com/schema/onlyElements OnlyElements.xsd">
+    <firstName>Tinh</firstName>
+    <lastName>Huynh</lastName>
+</Person>

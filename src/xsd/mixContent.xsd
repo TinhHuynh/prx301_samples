@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://xml.tinh.com/schema/mixContent"
+            xmlns="http://xml.tinh.com/schema/mixContent"
+            elementFormDefault="qualified">
+    <!--<xsd:element name="Letter">-->
+        <!--<xsd:complexType mixed="true">-->
+            <!--<xsd:sequence>-->
+                <!--<xsd:element name="name" type="xsd:string"/>-->
+                <!--<xsd:element name="orderId" type="xsd:positiveInteger"/>-->
+                <!--<xsd:element name="shipDate" type="xsd:date"/>-->
+            <!--</xsd:sequence>-->
+        <!--</xsd:complexType>-->
+    <!--</xsd:element>-->
+
+    <xsd:element name="Letter" type="LetterType"/>
+
+    <xsd:complexType name="LetterType" mixed="true">
+        <xsd:sequence>
+            <xsd:element name="name" type="xsd:string"/>
+            <xsd:element name="orderId" type="xsd:positiveInteger"/>
+            <xsd:element name="shipDate" type="xsd:date"/>
+        </xsd:sequence>
+    </xsd:complexType>
+</xsd:schema>

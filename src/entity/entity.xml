@@ -7,6 +7,7 @@
         <!ATTLIST Address id CDATA #REQUIRED>
         <!ELEMENT Phone (#PCDATA)>
         <!ENTITY HCM "123 Innovation Building HCM">
+        <!ENTITY HCM "23 Block-B HiTech Zone HCM">
         <!ENTITY HN "4 BK Building HN">
         <!ENTITY DN "234 Soft Building DN">
         ]>

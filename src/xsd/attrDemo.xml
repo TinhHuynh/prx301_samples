@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<name xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://xml.tinh.com/schema/attrDemo"
+      xsi:schemaLocation="http://xml.tinh.com/schema/attrDemo attrDemo.xsd"
+      Pseudonym="true"
+      HomePage="http://www.something.com">
+    <firstName>Tinh</firstName>
+    <lastName>Huynh</lastName>
+</name>

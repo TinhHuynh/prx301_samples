@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://xml.tinh.com/schema/choiceIndicator"
+        xsi:schemaLocation="http://xml.tinh.com/schema/choiceIndicator choiceIndicator.xsd">
+    <lastName>Huynh</lastName>
+</Person>

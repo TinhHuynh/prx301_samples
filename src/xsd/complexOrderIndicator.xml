@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Employee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://xml.tinh.com/schema/complexOrderIndicator"
+xsi:schemaLocation="http://xml.tinh.com/schema/complexOrderIndicator complexOrderIndicator.xsd">
+    <Name>
+        <FirstName>Tinh</FirstName>
+        <LastName>Huynh</LastName>
+    </Name>
+    <!--<Salary>20000</Salary>-->
+    <Wage>200</Wage>
+</Employee>
