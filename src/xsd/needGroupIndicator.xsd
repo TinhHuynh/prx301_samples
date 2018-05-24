@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://xml.tinh.com/schema/needGroupSchemaIndicator"
+            xmlns="http://xml.tinh.com/schema/needGroupSchemaIndicator"
+            elementFormDefault="qualified">
+    <xsd:element name="Book">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="Title" type="xsd:string"/>
+                <xsd:element name="Author">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="FirstName" type="xsd:string"/>
+                            <xsd:element name="MiddleName" type="xsd:string" minOccurs="0"/>
+                            <xsd:element name="LastName" type="xsd:string"/>
+                            <xsd:element name="Speciality">
+                                <xsd:simpleType>
+                                    <xsd:restriction base="xsd:string">
+                                        <xsd:enumeration value="Mystery"/>
+                                        <xsd:enumeration value="Humor"/>
+                                        <xsd:enumeration value="Horror"/>
+                                        <xsd:enumeration value="Childrens"/>
+                                    </xsd:restriction>
+                                </xsd:simpleType>
+                            </xsd:element>
+                        </xsd:sequence>
+                        <xsd:attribute name="Title">
+                            <xsd:simpleType>
+                                <xsd:restriction base="xsd:string">
+                                    <xsd:enumeration value="Mr."/>
+                                    <xsd:enumeration value="Ms."/>
+                                    <xsd:enumeration value="Dr."/>
+                                </xsd:restriction>
+                            </xsd:simpleType>
+                        </xsd:attribute>
+                        <xsd:attribute name="BirthYear" type="xsd:gYear"/>
+                    </xsd:complexType>
+                </xsd:element>
+                <xsd:element name="Illustrator" minOccurs="0">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="FirstName" type="xsd:string"/>
+                            <xsd:element name="MiddleName" type="xsd:string" minOccurs="0"/>
+                            <xsd:element name="LastName" type="xsd:string"/>
+                        </xsd:sequence>
+                        <xsd:attribute name="Title">
+                            <xsd:simpleType>
+                                <xsd:restriction base="xsd:string">
+                                    <xsd:enumeration value="Mr."/>
+                                    <xsd:enumeration value="Ms."/>
+                                    <xsd:enumeration value="Dr."/>
+                                </xsd:restriction>
+                            </xsd:simpleType>
+                        </xsd:attribute>
+                        <xsd:attribute name="BirthYear" type="xsd:gYear"/>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

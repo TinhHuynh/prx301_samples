@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://xml.tinh.com/schema/importedDemo"
+            xmlns="http://xml.tinh.com/schema/importedDemo"
+            xmlns:target="http://xml.tinh.com/schema/imported"
+            elementFormDefault="qualified">
+    <xsd:import namespace="http://xml.tinh.com/schema/imported"
+                schemaLocation="imported.xsd"/>
+    <xsd:element name="contacts">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="contact" minOccurs="0" maxOccurs="unbounded">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element ref="target:name"/>
+                            <xsd:element name="location" type="xsd:string"/>
+                            <xsd:element name="phone" type="xsd:string"/>
+                            <xsd:element name="knows" type="xsd:string"/>
+                            <xsd:element name="description" type="xsd:string"/>
+                        </xsd:sequence>
+                        <xsd:attribute name="person" type="xsd:string"/>
+                        <xsd:attribute name="tags" type="xsd:token"/>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

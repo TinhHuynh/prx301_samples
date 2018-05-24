@@ -1,0 +1,15 @@
+<contacts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://xml.tinh.com/schema/importedDemo"
+          xmlns:ns1="http://xml.tinh.com/schema/imported"
+          xsi:schemaLocation="http://xml.tinh.com/schema/importedDemo  importedDemo.xsd">
+    <contact>
+        <ns1:name>
+            <ns1:first>AA</ns1:first>
+            <ns1:last>AA</ns1:last>
+        </ns1:name>
+        <location>A</location>
+        <phone>A</phone>
+        <knows>A</knows>
+        <description>A</description>
+    </contact>
+</contacts>

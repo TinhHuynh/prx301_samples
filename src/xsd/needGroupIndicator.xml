@@ -1,0 +1,16 @@
+<Book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://xml.tinh.com/schema/groupSchemaIndicator"
+      xsi:schemaLocation="http://xml.tinh.com/schema/groupSchemaIndicator groupIndicator.xsd">
+    <Title>How about sword ??</Title>
+    <Author Title="Mr." BirthYear="1982">
+        <FirstName>Ha</FirstName>
+        <MiddleName>Ka</MiddleName>
+        <LastName>La</LastName>
+        <Speciality>Childrens</Speciality>
+    </Author>
+    <Illustrator Title="Ms." BirthYear="1990">
+        <FirstName>Ho</FirstName>
+        <MiddleName>A</MiddleName>
+        <LastName>Xas</LastName>
+    </Illustrator>
+</Book>

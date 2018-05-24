@@ -1,0 +1,24 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://xml.tinh.com/schema/included"
+            xmlns="http://xml.tinh.com/schema/included"
+            elementFormDefault="qualified">
+    <xsd:include schemaLocation="included.xsd"/>
+    <xsd:element name="contacts">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="contact" minOccurs="0" maxOccurs="unbounded">
+                    <xsd:complexType>
+                        <xsd:sequence>
+                            <xsd:element name="location" type="xsd:string"/>
+                            <xsd:element name="phone" type="xsd:string"/>
+                            <xsd:element name="knows" type="xsd:string"/>
+                            <xsd:element name="description" type="xsd:string"/>
+                        </xsd:sequence>
+                        <xsd:attribute name="person" type="xsd:string"/>
+                        <xsd:attribute name="tags" type="contactTagsType"/>
+                    </xsd:complexType>
+                </xsd:element>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

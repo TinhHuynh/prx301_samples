@@ -1,0 +1,13 @@
+<Animals xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://xml.tinh.com/schema/abstractType"
+         xsi:schemaLocation="http://xml.tinh.com/schema/abstractType abstractType.xsd">
+    <Animal xsi:type="Dog">
+        <Name>Hun</Name>
+        <Weight units="pounds">23</Weight>
+    </Animal>
+    <Animal xsi:type="Bird">
+        <Name>Kookoo</Name>
+        <Weight units="grams">16</Weight>
+        <WingSpan units="cm">20</WingSpan>
+    </Animal>
+</Animals>

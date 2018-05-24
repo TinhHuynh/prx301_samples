@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<customers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns="http://xml.tinh.com/schema/substitutionDemo"
+           xsi:schemaLocation="http://xml.tinh.com/schema/substitutionDemo substitutionDemo.xsd">
+    <customer>
+        <name>Tinh</name>
+    </customer>
+    <kunde>
+        <name>Hung</name>
+    </kunde>
+    <kunde>
+        <navn>Drgnz</navn>
+    </kunde>
+</customers>

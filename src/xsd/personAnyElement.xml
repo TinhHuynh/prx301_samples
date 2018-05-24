@@ -1,0 +1,21 @@
+<persons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://xml.tinh.com/schema/personAnyElement"
+         xmlns:child="http://xml.tinh.com/schema/personchildAnyElement"
+         xmlns:attrs="http://xml.tinh.com/schema/personAttrAnyElement"
+         xsi:schemaLocation="http://xml.tinh.com/schema/personAnyElement personAnyElement.xsd
+                             http://xml.tinh.com/schema/personchildAnyElement personchildAnyElement.xsd
+                             http://xml.tinh.com/schema/personAttrAnyElement  personAttrAnyElement.xsd">
+    <person attrs:gender="male">
+        <firstName>Hanh</firstName>
+        <lastName>Phan</lastName>
+        <child:children>
+            <child:childName>Tuan</child:childName>
+            <child:childName>Ngan</child:childName>
+        </child:children>
+    </person>
+
+    <person attrs:gender="female">
+        <firstName>Sunny</firstName>
+        <lastName>Ronse</lastName>
+    </person>
+</persons>

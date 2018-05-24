@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<persons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://xml.tinh.com/schema/occurrenceIndicator"
+         xsi:schemaLocation="http://xml.tinh.com/schema/occurrenceIndicator occurrenceIndicator.xsd">
+    <person>
+        <fullName>Le thi nga</fullName>
+        <childName>Khanh</childName>
+        <childName>Tuan</childName>
+    </person>
+    <person>
+        <fullName>Le thi nga</fullName>
+        <childName>Khanh</childName>
+    </person>
+    <person>
+        <fullName>Le thi nga</fullName>
+        <childName>Khanh</childName>
+        <childName>Khanh</childName>
+        <childName>Khanh</childName>
+        <childName>Khanh</childName>
+        <childName>Khanh</childName>
+    </person>
+    <person>
+        <fullName>Hung</fullName>
+    </person>
+</persons>

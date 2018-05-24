@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://xml.tinh.com/schema/imported"
+            xmlns:target="http://xml.tinh.com/schema/imported"
+            elementFormDefault="qualified">
+    <xsd:group name="NameGroup">
+        <xsd:sequence>
+            <xsd:element name="first" type="xsd:string" maxOccurs="unbounded"/>
+            <xsd:element name="middle" type="xsd:string" minOccurs="0"
+                         maxOccurs="1"/>
+            <xsd:element name="last" type="xsd:string"/>
+        </xsd:sequence>
+    </xsd:group>
+    <xsd:complexType name="NameType">
+        <xsd:group ref="target:NameGroup"/>
+        <xsd:attribute name="title" type="xsd:string"/>
+    </xsd:complexType>
+    <xsd:element name="name" type="target:NameType"/>
+</xsd:schema>

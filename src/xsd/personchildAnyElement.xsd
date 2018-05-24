@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://xml.tinh.com/schema/personchildAnyElement"
+            xmlns="http://xml.tinh.com/schema/personchildAnyElement"
+            elementFormDefault="qualified">
+    <xsd:element name="children">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element name="childName" type="xsd:string"
+                             maxOccurs="unbounded"/>
+            </xsd:sequence>
+            <xsd:anyAttribute/>
+        </xsd:complexType>
+    </xsd:element>
+</xsd:schema>

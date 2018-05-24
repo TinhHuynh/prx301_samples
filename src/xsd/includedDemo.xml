@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<contacts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns="http://xml.tinh.com/schema/included"
+          xsi:schemaLocation="http://xml.tinh.com/schema/included includeDemo.xsd">
+    <contact>
+        <location>ASDA</location>
+        <phone>13123</phone>
+        <knows>4</knows>
+        <description>sadsasdsa</description>
+    </contact>
+</contacts>

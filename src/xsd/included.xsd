@@ -1,0 +1,13 @@
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://xml.tinh.com/schema/included"
+            xmlns="http://xml.tinh.com/schema/included"
+            elementFormDefault="qualified">
+<xsd:simpleType name="contactTagsType">
+    <xsd:restriction base="xsd:string">
+        <xsd:enumeration value="author"/>
+        <xsd:enumeration value="poetry"/>
+        <xsd:enumeration value="developer"/>
+        <xsd:enumeration value="businessman"/>
+    </xsd:restriction>
+</xsd:simpleType>
+</xsd:schema>
