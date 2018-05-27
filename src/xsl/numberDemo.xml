@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="numberDemo.xsl" ?>
+<group>
+    <persons>
+        <person link="http://fb.sharas.com">
+            <name>
+                <firstName>Sharas</firstName>
+                <lastName>Numanex</lastName>
+            </name>
+        </person>
+        <person link="http://www.bensmith.com" real="no">
+            <name>
+                <firstName>Ben</firstName>
+                <lastName>Smith</lastName>
+            </name>
+        </person>
+    </persons>
+    <xPersons>
+        <person link="http://fb.sharas.com">
+            <name>
+                <firstName>Sharas</firstName>
+                <lastName>Numanex</lastName>
+            </name>
+        </person>
+        <person link="http://www.bensmith.com" real="no">
+            <name>
+                <firstName>Ben</firstName>
+                <lastName>Smith</lastName>
+            </name>
+        </person>
+    </xPersons>
+</group>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="templateDemo.xsl" ?>
+<person link="fb.sharas.com">
+    <name>
+        <firstName>Rose</firstName>
+        <lastName>Alx</lastName>
+    </name>
+    <job>Singer</job>
+    <gender>Male</gender>
+</person>

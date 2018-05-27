@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0131adb8-7df1-4654-ab2a-54148907ca34" name="Default" comment="" />
+    <list default="true" id="3c63b288-bd2f-43e0-9f8d-7e80771a7190" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TrAX/TrAXDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/basic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/basic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/groupingSelectors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/groupingSelectors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xPath/bookstore.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/Book_format.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/ForSort.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/applyTemplateMode.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/applyTemplateMode.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/applyTemplatesDemo.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/attributeShorthand.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/book.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/books.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/callTemplate.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/chooseDemo.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/conflict.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/conflict.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/conflict1.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/conflict2.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/elementAttributeDemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/elementAttributeDemo.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/firstXSL.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/include.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/include.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/includefile.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/multipleNumber.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/multipleNumber.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/numberDemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/numberDemo.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/outputStyleDemo.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/templateDefaultDemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/templateDemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/templateDemo.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/textDemo.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/valueOfDemo.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/valueOfPattern.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/variableParamDemo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xsl/variableParamDemo.xsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DtdXml2/combined.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DtdXml2/entity.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DtdXml2/letter.dtd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DtdXml2/letter.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DtdXml2/library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DtdXml2/reuseDTD.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/library.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,39 +61,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="entityParameterEmbbed.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/entityParameterEmbbed.xml">
+    <leaf>
+      <file leaf-file-name="bookstore.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/xPath/bookstore.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="entityParameterEmbbed_1.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/entityParameterEmbbed_1.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="entityParameter.dtd" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/entityParameter.dtd">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reuseDTD.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/reuseDTD.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+            <state relative-caret-position="135">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -53,14 +76,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
+        <option value="FxmlFile" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>l</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,23 +86,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/standalone.dtd" />
-        <option value="$PROJECT_DIR$/src/letter.xml" />
+        <option value="$PROJECT_DIR$/src/xsd/personAnyElement.xml" />
+        <option value="$PROJECT_DIR$/src/xsd/substitutionDemo.xml" />
+        <option value="$PROJECT_DIR$/src/xsd/substitutionDemo.xsd" />
+        <option value="$PROJECT_DIR$/src/xsd/imported.xsd" />
+        <option value="$PROJECT_DIR$/src/xsd/importedDemo.xsd" />
+        <option value="$PROJECT_DIR$/src/xsd/importDemo.xml" />
+        <option value="$PROJECT_DIR$/src/xsd/includeDemo.xsd" />
+        <option value="$PROJECT_DIR$/src/xsd/extending.xml" />
+        <option value="$PROJECT_DIR$/src/xsd/included.xsd" />
+        <option value="$PROJECT_DIR$/src/xsd/includedDemo.xml" />
+        <option value="$PROJECT_DIR$/src/css/basic.xml" />
+        <option value="$PROJECT_DIR$/src/css/groupingSelectors.css" />
+        <option value="$PROJECT_DIR$/src/css/groupingSelectors.xml" />
+        <option value="$PROJECT_DIR$/src/css/basic.css" />
         <option value="$PROJECT_DIR$/src/library.xml" />
-        <option value="$PROJECT_DIR$/src/id_refAttr.dtd" />
-        <option value="$PROJECT_DIR$/src/id_refAttr.xml" />
-        <option value="$PROJECT_DIR$/src/nmTokenAttr.xml" />
-        <option value="$PROJECT_DIR$/src/letter.dtd" />
-        <option value="$PROJECT_DIR$/src/combined.dtd" />
-        <option value="$PROJECT_DIR$/src/combined.xml" />
-        <option value="$PROJECT_DIR$/src/specialChar.xml" />
-        <option value="$PROJECT_DIR$/src/entity.xml" />
-        <option value="$PROJECT_DIR$/src/entityAttr.xml" />
-        <option value="$PROJECT_DIR$/src/entityParameter.dtd" />
-        <option value="$PROJECT_DIR$/src/entityParameter.xml" />
-        <option value="$PROJECT_DIR$/src/entityParameterEmbbed.xml" />
-        <option value="$PROJECT_DIR$/src/entityParameterEmbbed_1.xml" />
-        <option value="$PROJECT_DIR$/src/reuseDTD.xml" />
+        <option value="$PROJECT_DIR$/src/xsl/templateDemo.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/templateDefaultDemo.xml" />
+        <option value="$PROJECT_DIR$/src/xsl/valueOfDemo.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/valueOfPattern.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/textDemo.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/outputStyleDemo.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/elementAttributeDemo.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/elementAttributeDemo.xml" />
+        <option value="$PROJECT_DIR$/src/xsl/attributeShorthand.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/ForSort.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/chooseDemo.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/firstXSL.xml" />
+        <option value="$PROJECT_DIR$/src/xsl/applyTemplatesDemo.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/applyTemplateMode.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/applyTemplateMode.xml" />
+        <option value="$PROJECT_DIR$/src/xsl/callTemplate.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/variableParamDemo.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/variableParamDemo.xml" />
+        <option value="$PROJECT_DIR$/src/xsl/Book_format.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/book.xml" />
+        <option value="$PROJECT_DIR$/src/xsl/books.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/conflict1.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/conflict2.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/conflict.xml" />
+        <option value="$PROJECT_DIR$/src/xsl/conflict.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/include.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/includefile.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/include.xml" />
+        <option value="$PROJECT_DIR$/src/xsl/templateDemo.xml" />
+        <option value="$PROJECT_DIR$/src/xsl/numberDemo.xml" />
+        <option value="$PROJECT_DIR$/src/xsl/numberDemo.xsl" />
+        <option value="$PROJECT_DIR$/src/multipleNumber.xml" />
+        <option value="$PROJECT_DIR$/src/multipleNumber.xsl" />
+        <option value="$PROJECT_DIR$/src/xsl/multipleNumber.xsl" />
+        <option value="$PROJECT_DIR$/src/TrAX/TrAXDemo.java" />
+        <option value="$PROJECT_DIR$/src/xPath/bookstore.xml" />
       </list>
     </option>
   </component>
@@ -97,18 +149,17 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
-    <option name="height" value="775" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="683" />
+    <option name="y" value="34" />
+    <option name="width" value="683" />
+    <option name="height" value="734" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -117,17 +168,47 @@
               <item name="DtdXml2" type="b2602c69:ProjectViewProjectNode" />
               <item name="DtdXml2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="DtdXml2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DtdXml2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DtdXml2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DtdXml2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TrAX" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DtdXml2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DtdXml2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xPath" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/charl/IdeaProjects/DtdXml2/src/library.xml&#10;l&#9;FILE&#9;file://C:/Users/charl/IdeaProjects/DtdXml2/src/library.xml" />
+    <property name="SearchEverywhereHistoryKey" value="te&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsl/templateDemo.xml&#10;templ&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsl/templateDemo.xml&#10;include.xml&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsl/include.xml&#10;book&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsl/book.xml&#10;temp&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsl/templateDemo.xml&#10;a&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsl/applyTemplatesDemo.xsl&#10;ap&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsl/applyTemplatesDemo.xsl&#10;fir&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsl/firstXSL.xml&#10;templa&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsl/templateDemo.xml&#10;element&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsl/elementAttributeDemo.xsl&#10;tem&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsl/templateDemo.xsl&#10;libra&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/library.xml&#10;xs&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsd/importedDemo.xsd&#10;x&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsd/extending.xml&#10;import&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsd/importedDemo.xml&#10;xml&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsd/needGroupIndicator.xml&#10;att&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsd/attrDemo.xsd&#10;grou&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsd/groupIndicator.xsd&#10;list&#9;FILE&#9;file:///home/TinhHSE62713/Projects/DtdXml2/src/xsd/listNonAtomic.xsd" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/multipleNumber.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/xsl" />
+      <recent name="$PROJECT_DIR$/src/xsd" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/dtd" />
+      <recent name="$PROJECT_DIR$/src/entity" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,68 +222,183 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="XSLT.multipleNumber.xsl">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
-    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
     </configuration>
+    <configuration name="ForSort.xsl" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/src/xsl/ForSort.xsl" />
+      <XmlFile url="file://$PROJECT_DIR$/src/xsl/templateDemo.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="HTML" />
+      <JdkChoice value="FROM_MODULE" />
+    </configuration>
+    <configuration name="attributeShorthand.xsl" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/src/xsl/attributeShorthand.xsl" />
+      <XmlFile url="file://$PROJECT_DIR$/src/xsl/templateDemo.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+    </configuration>
+    <configuration name="elementAttributeDemo.xsl" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="true" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/src/xsl/elementAttributeDemo.xsl" />
+      <XmlFile url="file://$PROJECT_DIR$/src/xsl/elementAttributeDemo.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+    </configuration>
+    <configuration name="multipleNumber.xsl" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" value="" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" value="" />
+      <option name="myWorkingDirectory" value="" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <XsltFile url="file://$PROJECT_DIR$/src/xsl/multipleNumber.xsl" />
+      <XmlFile url="file://$PROJECT_DIR$/src/xsl/multipleNumber.xml" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType />
+      <JdkChoice value="FROM_MODULE" />
+    </configuration>
+    <list>
+      <item itemvalue="XSLT.elementAttributeDemo.xsl" />
+      <item itemvalue="XSLT.attributeShorthand.xsl" />
+      <item itemvalue="XSLT.ForSort.xsl" />
+      <item itemvalue="XSLT.multipleNumber.xsl" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c63b288-bd2f-43e0-9f8d-7e80771a7190" name="Default" comment="" />
+      <created>1526911062101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526911062101</updated>
+      <workItem from="1526911071541" duration="6466000" />
+      <workItem from="1526956936602" duration="4676000" />
+      <workItem from="1526999559010" duration="7682000" />
+      <workItem from="1527035027697" duration="5334000" />
+      <workItem from="1527081382518" duration="3740000" />
+      <workItem from="1527088720084" duration="5868000" />
+      <workItem from="1527122890713" duration="6134000" />
+      <workItem from="1527171909824" duration="5850000" />
+      <workItem from="1527228548592" duration="1097000" />
+      <workItem from="1527254343908" duration="10517000" />
+      <workItem from="1527300869605" duration="6416000" />
+      <workItem from="1527318371440" duration="8832000" />
+      <workItem from="1527342106612" duration="9761000" />
+      <workItem from="1527386132919" duration="2201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84574000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <frame x="683" y="34" width="683" height="734" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007342" side_tool="true" weight="0.32735425" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5024155" side_tool="true" weight="0.32302406" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32130584" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49924472" weight="0.3298969" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.48682284" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.41653666" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Messages" order="7" sideWeight="0.4992658" visible="true" weight="0.3287879" />
-    </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.48751837" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007342" side_tool="true" weight="0.3287879" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39833334" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4992658" visible="true" weight="0.3287879" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-    </layout-to-restore>
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.3298611" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49758455" weight="0.32302406" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3286385" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -210,217 +406,378 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history>
+      <element expression="//book::[contains(&quot;o&quot;)]" />
+      <element expression="/bookstore" />
+      <element expression="bookstore" />
+      <element expression="bookstore/book" />
+      <element expression="//book" />
+      <element expression="book" />
+      <element expression="bookstore//price" />
+      <element expression="//@lang" />
+      <element expression="/bookstore/book[1]" />
+      <element expression="/bookstore/book[last()]" />
+      <element expression="/bookstore/book[last()-1]" />
+      <element expression="/bookstore/book[position()&lt;3]" />
+      <element expression="//title[@lang]" />
+      <element expression="//title[@lang='eng']" />
+      <element expression="/bookstore/bookstore[price &gt; 20]" />
+      <element expression="/bookstore/bookstore[@price &gt; 20]" />
+      <element expression="/bookstore/book[price &gt; 20]" />
+      <element expression="/bookstore/book[price &gt; 20]/title" />
+      <element expression="/bookstore/*" />
+      <element expression="//*" />
+      <element expression="//title[@*]" />
+      <element expression="//book/title | //book/price" />
+      <element expression="//title | //price" />
+      <element expression="/bookstore/book/title | //price" />
+      <element expression="child::book" />
+      <element expression="attribute::lang" />
+    </history>
+    <find-history />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/entityParameterEmbbed.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsd/imported.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/entityParameterEmbbed_1.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsd/included.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="30">
+          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/entityParameter.dtd">
+    <entry file="file://$PROJECT_DIR$/src/xsd/includeDemo.xsd.xml" />
+    <entry file="file://$PROJECT_DIR$/src/xsd/importDemo.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        <state relative-caret-position="210">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/reuseDTD.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsd/includedDemo.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="90">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/basic.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsd/mail.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsd/mixContent.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsd/extending.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/basic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/groupingSelectors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/groupingSelectors.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsl/templateDefaultDemo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsl/templateDemo.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsl/valueOfDemo.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsl/valueOfPattern.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="41" lean-forward="true" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsl/textDemo.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsl/outputStyleDemo.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsl/elementAttributeDemo.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsl/elementAttributeDemo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsl/attributeShorthand.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsl/chooseDemo.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="51" lean-forward="true" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsl/applyTemplateMode.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsl/applyTemplateMode.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsl/firstXSL.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/xsl/applyTemplatesDemo.xsl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/library.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="39" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/combined.dtd">
+    <entry file="file://$PROJECT_DIR$/src/xsl/callTemplate.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="195">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/id_refAttr.dtd">
+    <entry file="file://$PROJECT_DIR$/src/xsl/ForSort.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="105">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/id_refAttr.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsl/variableParamDemo.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nmTokenAttr.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsl/variableParamDemo.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        <state relative-caret-position="120">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/combined.xml">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/xpath/lib/xpath.jar!/org/intellij/lang/xpath/xslt/resources/xslt-schema.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="185">
+          <caret line="530" column="2" selection-start-line="530" selection-start-column="2" selection-end-line="530" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/library.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsd/includeDemo.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        <state relative-caret-position="165">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="12" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/letter.dtd">
+    <entry file="file://$PROJECT_DIR$/src/xsd/importedDemo.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="270">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/letter.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsl/book.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="150">
+          <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/letter.dtd">
+    <entry file="file://$PROJECT_DIR$/src/xsl/Book_format.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="60">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/id_refAttr.dtd">
+    <entry file="file://$PROJECT_DIR$/src/xsl/books.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="30">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/specialChar.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsl/conflict.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding>
-            <element signature="e#417#421#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/letter.dtd">
+    <entry file="file://$PROJECT_DIR$/src/xsl/conflict.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        <state relative-caret-position="75">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/letter.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsl/conflict1.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="true" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/library.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsl/conflict2.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="39" />
+        <state relative-caret-position="30">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nmTokenAttr.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsl/numberDemo.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/id_refAttr.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsl/multipleNumber.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        <state relative-caret-position="75">
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/entity.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsl/multipleNumber.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="166">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/combined.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsl/includefile.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="20" selection-end-column="11" />
+        <state relative-caret-position="225">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/entityAttr.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsl/numberDemo.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+        <state relative-caret-position="60">
+          <caret line="4" column="44" lean-forward="true" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/combined.dtd">
+    <entry file="file://$PROJECT_DIR$/src/xsl/include.xsl">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        <state relative-caret-position="105">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/entityParameter.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsl/templateDemo.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="25" lean-forward="true" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="39" />
+        <state relative-caret-position="120">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/entityParameterEmbbed_1.xml">
+    <entry file="file://$PROJECT_DIR$/src/xsl/include.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="165">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/entityParameterEmbbed.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/TrAX/TrAXDemo.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/entityParameter.dtd">
+    <entry file="file://$PROJECT_DIR$/src/xPath/bookstore.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reuseDTD.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+        <state relative-caret-position="135">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>

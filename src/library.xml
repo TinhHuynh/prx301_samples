@@ -16,7 +16,7 @@
         <price>24</price>
     </book>
     <book>
-        <booktitle>Stubborn Guy <discount>21</discount> </booktitle>
+        <booktitle>Stubborn Guy</booktitle>
         <author>James Gordon</author>
         <discount>53</discount>
     </book>

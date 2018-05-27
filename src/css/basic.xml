@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/css" href="basic.css" ?>
+
+<DOC>
+    <Greeting>Hello,
+        <Extension>from XML!</Extension>
+    </Greeting>
+    <More class="more_info">
+        <Extension>Good morning!</Extension>
+        <Question>You're well, aren't you?</Question>
+    </More>
+</DOC>

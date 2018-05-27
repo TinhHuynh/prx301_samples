@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="include.xsl" ?>
+<collection>
+    <book>
+        <title>Harry Potter</title>
+        <author>Garchar</author>
+        <publisher>Youth</publisher>
+    </book>
+    <book>
+        <title>Youth</title>
+        <author>John Smith</author>
+        <publisher>Youth Publisher</publisher>
+    </book>
+</collection>

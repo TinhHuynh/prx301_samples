@@ -1,0 +1,39 @@
+DOC {
+    margin-top: 0.7in;
+    margin-bottom: 0.7in;
+    margin-left: 1.5in;
+    margin-right: 1in;
+    color: navy;
+    background-color: white;
+    display: block;
+}
+
+Greeting {
+    display: block;
+    font-family: Roboto, serif;
+    font-size: 33pt;
+    width: 30em;
+    color: blue;
+}
+
+Extension {
+    color: maroon;
+    font-style: italic;
+}
+
+Question {
+    display: block;
+    font-size: x-large;
+    color: black;
+}
+
+More.more_inof {
+    display: block;
+    font-size: 80pt;
+    color: yellow;
+}
+
+More Extension, Question {
+    color: darkmagenta;
+    font-style: oblique;
+}

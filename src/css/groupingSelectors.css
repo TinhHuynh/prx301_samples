@@ -1,0 +1,11 @@
+Grouping {
+    margin: 0.7in 1in 0.7in 1.5in;
+}
+
+Greeting, Question, Answer {
+    display: block;
+    color: blue;
+    font-family: Roboto, serif;
+    font-size: 20pt;
+    width: 150pt;
+}

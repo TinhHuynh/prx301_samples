@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="books.xsl" ?>
+<library>
+    <book>
+        <booktitle>The bad guide</booktitle>
+        <author>Mr.T</author>
+        <price>24</price>
+    </book>
+    <book>
+        <booktitle>Stubborn Guy</booktitle>
+        <author>James Gordon</author>
+        <price>100</price>
+        <discount>53</discount>
+    </book>
+    <book>
+        <booktitle>Only Java</booktitle>
+        <author>Asley Avlok</author>
+        <price>74</price>
+    </book>
+</library>
